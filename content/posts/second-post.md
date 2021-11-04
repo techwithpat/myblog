@@ -1,7 +1,7 @@
 ---
 title: "Second Post"
 date: 2021-11-04T18:34:30+01:00
-draft: true
+draft: false
 ---
 
 # Morbi id diam imperdiet, vulputate est vel, sagittis augue.
