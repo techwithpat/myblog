@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Pat's blog"
+theme="beautifulhugo"
+
+
+[Params]
+subtitle = "A place for my thoughts"
+logo = "img/profile.png" 
+
+
+[Author]
+website = "techwithpat.com"
+email = "patrick@domain.com"
+github = ""
+youtube = ""
